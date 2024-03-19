@@ -4,3 +4,5 @@ Project Vasundharais an interactable VR application that gamifies learning chemi
 
 This project was build in 36Hrs during CAD 2.0 Hackathon hosted by Coding Ninjas SRM.
 
+Devfolio Link: https://devfolio.co/projects/project-vasundhara-cb2e
+
